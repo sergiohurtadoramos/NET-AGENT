@@ -1,2 +1,2 @@
 # Proyecto-Redes-Teoria
-Suena tu canción y tú no estás aquí a mi la'o Yo sé que no debo, que te pienso demasia'o Qué rico esos días cuando estábamo' tragao' Tú y yo somo' fuego cuando estamo' emborrachao'
+NET AGENT es una herramienta de apoyo para la administración de redes locales. Permite registrar equipos, representar conexiones mediante un mapa visual, comprobar la conectividad mediante ICMP (ping) y mostrar orientaciones básicas para la revisión de posibles fallos de red.
